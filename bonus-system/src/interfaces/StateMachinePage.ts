@@ -1,0 +1,4 @@
+
+interface StateMachinePage {
+    setPage?:Function
+  }
